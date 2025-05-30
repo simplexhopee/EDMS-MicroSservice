@@ -31,37 +31,38 @@ EDMS-MicroSservice/
 ├── services/
 │   └── UserService/
 │       ├── Application/
-│       │   ├── Interfaces/          
-│       │   ├── DTOs/                 
-│       │   └── Commands/             
+│       │   ├── Interfaces/
+│       │   ├── DTOs/
+│       │   └── Commands/
 │       │
 │       ├── Domain/
-│       │   ├── Entities/            
-│       │   ├── Interfaces/              
-│       │   └── Common/         
+│       │   ├── Entities/
+│       │   ├── Interfaces/
+│       │   └── Common/
 │       │
 │       ├── Infrastructure/
-│       │   ├── Repositories/                 
-│       │   ├── Migrations/           
-│       │   ├── Services/             
-│       │   └── DbContexts/       
+│       │   ├── Repositories/
+│       │   ├── Migrations/
+│       │   ├── Services/
+│       │   └── DbContexts/
 │       │
 │       ├── API/
-│       │   ├── Controllers/          
-│       │   ├── Extensions/               
-│       │   ├── Middlewares/          
-│       │   └── Program.cs            
+│       │   ├── Controllers/
+│       │   ├── Extensions/
+│       │   ├── Middlewares/
+│       │   └── Program.cs
 │       │
-│       ├── Shared/                   
-│       ├── appsettings.json          
-│       ├── Dockerfile                
-│       └── UserService.csproj       
+│       ├── Shared/
+│       ├── appsettings.json
+│       ├── Dockerfile
+│       └── UserService.csproj
 │
-├── docker-compose.yml               
-├── EDMS Microservice.sln            
-├── .gitignore                       
-├── LICENSE                         
-└── README.md                       
+├── docker-compose.yml
+├── EDMS Microservice.sln
+├── .gitignore
+├── LICENSE
+└── README.md
+                     
 
 
 
