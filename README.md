@@ -23,10 +23,9 @@ It focuses on scalability, maintainability, and separation of concerns, ensuring
 - **Containerization**: Docker and Docker Compose for environment consistency
 - **CI/CD**: GitHub Actions for automated testing and deployment
 
----
+## Current Project Structure
 
-## Current Repository Structure
-
+```plaintext
 EDMS-MicroSservice/
 ├── services/
 │   └── UserService/
@@ -62,11 +61,9 @@ EDMS-MicroSservice/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-                     
 
+```
 
-
----
 
 ## Key Features
 
