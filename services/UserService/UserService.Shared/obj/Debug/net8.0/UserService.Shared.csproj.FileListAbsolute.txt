@@ -1,0 +1,11 @@
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\bin\Debug\net8.0\UserService.Shared.deps.json
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\bin\Debug\net8.0\UserService.Shared.dll
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\bin\Debug\net8.0\UserService.Shared.pdb
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\obj\Debug\net8.0\UserService.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\obj\Debug\net8.0\UserService.Shared.AssemblyInfoInputs.cache
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\obj\Debug\net8.0\UserService.Shared.AssemblyInfo.cs
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\obj\Debug\net8.0\UserService.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\obj\Debug\net8.0\UserService.Shared.dll
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\obj\Debug\net8.0\refint\UserService.Shared.dll
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\obj\Debug\net8.0\UserService.Shared.pdb
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Shared\obj\Debug\net8.0\ref\UserService.Shared.dll

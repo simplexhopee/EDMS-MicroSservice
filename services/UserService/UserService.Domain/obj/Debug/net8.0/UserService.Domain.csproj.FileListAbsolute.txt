@@ -1,0 +1,15 @@
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\bin\Debug\net8.0\UserService.Domain.deps.json
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\bin\Debug\net8.0\UserService.Domain.dll
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\bin\Debug\net8.0\UserService.Domain.pdb
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\bin\Debug\net8.0\UserService.Shared.dll
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\bin\Debug\net8.0\UserService.Shared.pdb
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\UserService.Domain.csproj.AssemblyReference.cache
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\UserService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\UserService.Domain.AssemblyInfoInputs.cache
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\UserService.Domain.AssemblyInfo.cs
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\UserService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\UserService.Domain.csproj.CopyComplete
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\UserService.Domain.dll
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\refint\UserService.Domain.dll
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\UserService.Domain.pdb
+C:\Users\Hope\Documents\EDMS Microservice\UserService.Domain\obj\Debug\net8.0\ref\UserService.Domain.dll
