@@ -90,12 +90,12 @@ EDMS-MicroSservice/
    git clone https://github.com/simplexhopee/EDMS-MicroSservice.git
 
 2. Navigate to the project directory:
-
+    ```bash
     cd EDMS-MicroSservice
 
 3. Build and run the services using Docker Compose:
-
-docker-compose up --build
+    ```bash
+    docker-compose up --build
 
 ### Roadmap
  Implement DocumentService for handling document uploads and storage
