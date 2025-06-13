@@ -1,6 +1,4 @@
-﻿using UserService.Domain.Entities;
-using UserService.Domain.Interfaces;
-using UserService.Shared.Auth;
+﻿using UserService.Shared.Auth;
 
 namespace UserService.API.Middlewares
 {

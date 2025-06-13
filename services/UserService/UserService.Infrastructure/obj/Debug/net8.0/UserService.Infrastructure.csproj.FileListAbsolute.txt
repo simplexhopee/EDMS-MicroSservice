@@ -19,3 +19,25 @@ C:\Users\Hope\Documents\EDMS Microservice\UserService.Infrastructure\bin\Debug\n
 C:\Users\Hope\Documents\EDMS Microservice\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.pdb
 C:\Users\Hope\Documents\EDMS Microservice\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.runtimeconfig.json
 C:\Users\Hope\Documents\EDMS Microservice\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.genruntimeconfig.cache
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.deps.json
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.runtimeconfig.json
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.dll
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.pdb
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.dll
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.dll
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Shared.dll
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.pdb
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.pdb
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Shared.pdb
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfo.cs
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.dll
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.genruntimeconfig.cache
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
+C:\Users\Hope\Documents\EDMS-MicroSservice\services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CopyComplete

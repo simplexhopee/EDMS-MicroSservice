@@ -13,9 +13,10 @@ namespace UserService.API.Extensions
         public static IServiceCollection AddJwtConfiguration(this IServiceCollection services, IConfiguration configuration)
         {
             var jwtSettings = new JwtSettings();
-            configuration.GetSection(nameof(jwtSettings)).Bind(jwtSettings);
-           
-             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+            configuration.GetSection(nameof(JwtSettings)).Bind(jwtSettings);
+            services.Configure<JwtSettings>(configuration.GetSection(nameof(JwtSettings)));
+
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(options =>
              {
                  options.TokenValidationParameters = new TokenValidationParameters

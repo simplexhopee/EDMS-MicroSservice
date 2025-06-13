@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UserService.Domain.Interfaces
+namespace UserService.Shared.Auth
 {
     public interface ICurrentUser
     {

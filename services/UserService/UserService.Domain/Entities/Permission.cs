@@ -1,5 +1,5 @@
-﻿using UserService.Domain.Common;
-using UserService.Domain.Interfaces;
+﻿
+using UserService.Shared.Common;
 
 namespace UserService.Domain.Entities
 {

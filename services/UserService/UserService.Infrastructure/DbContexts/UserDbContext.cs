@@ -1,21 +1,24 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UserService.Domain.Entities;
-using UserService.Domain.Interfaces;
 using UserService.Shared.MultiTenancy;
+using UserService.Shared.Auth;
+using UserService.Shared.Database;
 
 namespace UserService.Infrastructure.DbContexts
 {
     public class UserDbContext : ApplicationDbContext
     {
-        public UserDbContext(ITenantContext tenantContext, ICurrentUser currentUser) : base(tenantContext, currentUser)
+        public UserDbContext(
+            DbContextOptions<UserDbContext> options,
+            ITenantContext tenantContext, 
+            ICurrentUser currentUser) : base(options, tenantContext, currentUser)
         {
         }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<Permission> Permissions { get; set; }
+
+        public DbSet<RefreshToken> RefreshTokens { get; set; }
     }
 }
